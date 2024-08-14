@@ -1,6 +1,6 @@
 # Nexter 🏠🌟
 
-**Nexter** is a premium website where users can discover and purchase luxury properties and beautiful villas while connecting with top realtors. Developed during my web development learning journey, Nexter is a testament to the skills and techniques I've acquired, particularly in grid layout and responsive web design. You can explore the live website here: [Nexter Website](#)
+**Nexter** is a premium website where users can discover and purchase luxury properties and beautiful villas while connecting with top realtors. Developed during my web development learning journey, Nexter is a testament to the skills and techniques I've acquired, particularly in grid layout and responsive web design. You can explore the live website here: [Nexter Website](https://nexter-zeta-seven.vercel.app/)
 
 ## 🌍 About the Project
 
